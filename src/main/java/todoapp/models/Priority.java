@@ -1,4 +1,4 @@
-package models;
+package todoapp.models;
 
 public enum Priority
 {
