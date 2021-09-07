@@ -1,1 +1,1 @@
-# ToDoList
+# Simple Todo List RESTful Application
